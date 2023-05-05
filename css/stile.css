@@ -1,0 +1,11 @@
+:root {
+  --oscuro: black;
+  --azuloscuro: rgb(28, 7, 112);
+  --azulclaro: blue;
+  --blanco: white;
+  --titulo: "Balsamiq Sans", cursive;
+  --parrafo: "Roboto Mono", sans-serif;
+}
+h1{
+    font-family: var(--titulo);
+}
